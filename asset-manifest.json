@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shery_portfolio_app/static/css/main.c23df4c4.chunk.css",
-    "main.js": "/shery_portfolio_app/static/js/main.c664188e.chunk.js",
-    "main.js.map": "/shery_portfolio_app/static/js/main.c664188e.chunk.js.map",
+    "main.js": "/shery_portfolio_app/static/js/main.808dbf11.chunk.js",
+    "main.js.map": "/shery_portfolio_app/static/js/main.808dbf11.chunk.js.map",
     "runtime-main.js": "/shery_portfolio_app/static/js/runtime-main.fee7823e.js",
     "runtime-main.js.map": "/shery_portfolio_app/static/js/runtime-main.fee7823e.js.map",
     "static/js/2.ece7857a.chunk.js": "/shery_portfolio_app/static/js/2.ece7857a.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.fee7823e.js",
     "static/js/2.ece7857a.chunk.js",
     "static/css/main.c23df4c4.chunk.css",
-    "static/js/main.c664188e.chunk.js"
+    "static/js/main.808dbf11.chunk.js"
   ]
 }
