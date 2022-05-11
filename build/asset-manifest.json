@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shery_portfolio_app/static/css/main.c23df4c4.chunk.css",
+    "main.js": "/shery_portfolio_app/static/js/main.ffa1673c.chunk.js",
+    "main.js.map": "/shery_portfolio_app/static/js/main.ffa1673c.chunk.js.map",
+    "runtime-main.js": "/shery_portfolio_app/static/js/runtime-main.fee7823e.js",
+    "runtime-main.js.map": "/shery_portfolio_app/static/js/runtime-main.fee7823e.js.map",
+    "static/js/2.ece7857a.chunk.js": "/shery_portfolio_app/static/js/2.ece7857a.chunk.js",
+    "static/js/2.ece7857a.chunk.js.map": "/shery_portfolio_app/static/js/2.ece7857a.chunk.js.map",
+    "index.html": "/shery_portfolio_app/index.html",
+    "static/css/main.c23df4c4.chunk.css.map": "/shery_portfolio_app/static/css/main.c23df4c4.chunk.css.map",
+    "static/js/2.ece7857a.chunk.js.LICENSE.txt": "/shery_portfolio_app/static/js/2.ece7857a.chunk.js.LICENSE.txt",
+    "static/media/Awesome-Github-Profile.ad596dc2.PNG": "/shery_portfolio_app/static/media/Awesome-Github-Profile.ad596dc2.PNG",
+    "static/media/Daily-Quran-Verse-app.f579a041.PNG": "/shery_portfolio_app/static/media/Daily-Quran-Verse-app.f579a041.PNG",
+    "static/media/Image-Gallery.6c62813a.PNG": "/shery_portfolio_app/static/media/Image-Gallery.6c62813a.PNG",
+    "static/media/Notes-Keep-App.b2cafbab.PNG": "/shery_portfolio_app/static/media/Notes-Keep-App.b2cafbab.PNG",
+    "static/media/admin-dashboard-app.45224ca5.PNG": "/shery_portfolio_app/static/media/admin-dashboard-app.45224ca5.PNG",
+    "static/media/admin-panel-dashboard-app.d3c9542a.PNG": "/shery_portfolio_app/static/media/admin-panel-dashboard-app.d3c9542a.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fee7823e.js",
+    "static/js/2.ece7857a.chunk.js",
+    "static/css/main.c23df4c4.chunk.css",
+    "static/js/main.ffa1673c.chunk.js"
+  ]
+}

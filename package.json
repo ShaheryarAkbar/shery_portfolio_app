@@ -1,5 +1,6 @@
 {
   "name": "netflixapp",
+  "homepage": "http://ShaheryarAkbar.github.io/shery_portfolio_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,12 +8,16 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "axios": "^0.26.1",
+    "bootstrap": "^5.1.3",
+    "gh-pages": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

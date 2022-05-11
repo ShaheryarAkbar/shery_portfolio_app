@@ -1,10 +1,10 @@
 import React from "react";
 
-function Card(props) {
+const Card = (props) => {
     return(
     <div className="cards">
         <div className="card">
-            <img src={props.imgsrc} alt="mypic" className="cardimg" />
+            <img src={props.imgsrc} alt={props.imgsrc} className="cardimg" />
             <div className="cardinfo">
                 <span className="cardcategory"> {props.title} </span>
                 <h3 className="cardtitle"> {props.sname} </h3>
